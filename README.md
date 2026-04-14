@@ -34,7 +34,7 @@ Test: Spearman Correlation \
 Results: 
 
 P Value:  2.3260527360253857e-24 \
-Correlation:  -0.12616286088928053 \
+Correlation:  -0.12616286088928053 
 
 There isn't a strong correlation however it is statistically significant. 
 
@@ -46,7 +46,7 @@ H1: Track temperature is correlated on the number of pitstops
 Test: Spearman Correlation
 Results:
 
-P Value:  0.2737587919020263
+P Value:  0.2737587919020263 \
 Correlation:  -0.07550601598748641
 
 There isn't strong correlation and it is not statistically significant. 
