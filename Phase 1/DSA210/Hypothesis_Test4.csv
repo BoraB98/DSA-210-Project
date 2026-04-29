@@ -1,0 +1,328 @@
+,raceId,year,round,circuitId,name_x,date,time,circuitRef,location,country,lat,lng,alt,temp,stop,Circuit,Track Length (km),Turns,Direction,Circuit Type
+0,1166,2025,22,80,Las Vegas Grand Prix,2025-11-23,4:00:00,vegas,Las Vegas,USA,36.1147,-115.173,642,14.2,1.2173913043478262,Las Vegas Street Circuit,6.201,17,Anti clockwise,Street
+1,1142,2024,22,80,Las Vegas Grand Prix,2024-11-23,6:00:00,vegas,Las Vegas,USA,36.1147,-115.173,642,14.6,1.5384615384615385,Las Vegas Street Circuit,6.201,17,Anti clockwise,Street
+2,1119,2023,21,80,Las Vegas Grand Prix,2023-11-19,6:00:00,vegas,Las Vegas,USA,36.1147,-115.173,642,17.2,1.3870967741935485,Las Vegas Street Circuit,6.201,17,Anti clockwise,Street
+3,1150,2025,6,79,Miami Grand Prix,2025-05-04,20:00:00,miami,Miami Gardens,USA,25.9581,-80.2389,0,24.9,1.0,Miami International Autodrome,5.412,19,Anti clockwise,Street
+4,1126,2024,6,79,Miami Grand Prix,2024-05-05,20:00:00,miami,Miami Gardens,USA,25.9581,-80.2389,0,26.4,1.3214285714285714,Miami International Autodrome,5.412,19,Anti clockwise,Street
+5,1102,2023,5,79,Miami Grand Prix,2023-05-07,19:30:00,miami,Miami Gardens,USA,25.9581,-80.2389,0,26.1,1.0,Miami International Autodrome,5.412,19,Anti clockwise,Street
+6,1078,2022,5,79,Miami Grand Prix,2022-05-08,19:30:00,miami,Miami Gardens,USA,25.9581,-80.2389,0,27.7,1.24,Miami International Autodrome,5.412,19,Anti clockwise,Street
+7,1167,2025,23,78,Qatar Grand Prix,2025-11-30,16:00:00,losail,Lusail,Qatar,25.49,51.4542,12,21.6,1.6097560975609757,Lusail International Circuit,5.419,16,Clockwise,Race
+8,1143,2024,23,78,Qatar Grand Prix,2024-12-01,16:00:00,losail,Lusail,Qatar,25.49,51.4542,12,20.8,2.216666666666667,Lusail International Circuit,5.419,16,Clockwise,Race
+9,1115,2023,17,78,Qatar Grand Prix,2023-10-08,17:00:00,losail,Lusail,Qatar,25.49,51.4542,12,33.4,2.0185185185185186,Lusail International Circuit,5.419,16,Clockwise,Race
+10,1051,2021,20,78,Qatar Grand Prix,2021-11-21,14:00:00,losail,Lusail,Qatar,25.49,51.4542,12,25.6,1.3666666666666667,Lusail International Circuit,5.419,16,Clockwise,Race
+11,1149,2025,5,77,Saudi Arabian Grand Prix,2025-04-20,17:00:00,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15,30.4,1.0526315789473684,Jeddah Corniche Circuit,6.174,27,Anti clockwise,Street
+12,1122,2024,2,77,Saudi Arabian Grand Prix,2024-03-09,17:00:00,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15,25.1,1.0526315789473684,Jeddah Corniche Circuit,6.174,27,Anti clockwise,Street
+13,1099,2023,2,77,Saudi Arabian Grand Prix,2023-03-19,17:00:00,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15,25.4,1.2083333333333333,Jeddah Corniche Circuit,6.174,27,Anti clockwise,Street
+14,1075,2022,2,77,Saudi Arabian Grand Prix,2022-03-27,17:00:00,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15,26.8,1.105263157894737,Jeddah Corniche Circuit,6.174,27,Anti clockwise,Street
+15,1072,2021,21,77,Saudi Arabian Grand Prix,2021-12-05,17:30:00,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15,26.4,1.8297872340425532,Jeddah Corniche Circuit,6.174,27,Anti clockwise,Street
+16,1054,2021,3,75,Portuguese Grand Prix,2021-05-02,14:00:00,portimao,Portimão,Portugal,37.227,-8.6267,108,16.3,2.1,Algarve International Circuit,4.653,15,Clockwise,Race
+17,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,12:10:00,portimao,Portimão,Portugal,37.227,-8.6267,108,17.9,1.2,Algarve International Circuit,4.653,15,Clockwise,Race
+18,1161,2025,17,73,Azerbaijan Grand Prix,2025-09-21,11:00:00,baku,Baku,Azerbaijan,40.3725,49.8533,-7,17.5,1.0952380952380953,Baku City Circuit,6.003,20,Anti clockwise,Street
+19,1137,2024,17,73,Azerbaijan Grand Prix,2024-09-15,11:00:00,baku,Baku,Azerbaijan,40.3725,49.8533,-7,22.4,1.0909090909090908,Baku City Circuit,6.003,20,Anti clockwise,Street
+20,1101,2023,4,73,Azerbaijan Grand Prix,2023-04-30,11:00:00,baku,Baku,Azerbaijan,40.3725,49.8533,-7,19.2,1.2173913043478262,Baku City Circuit,6.003,20,Anti clockwise,Street
+21,1081,2022,8,73,Azerbaijan Grand Prix,2022-06-12,11:00:00,baku,Baku,Azerbaijan,40.3725,49.8533,-7,23.5,1.2962962962962963,Baku City Circuit,6.003,20,Anti clockwise,Street
+22,1057,2021,6,73,Azerbaijan Grand Prix,2021-06-06,12:00:00,baku,Baku,Azerbaijan,40.3725,49.8533,-7,21.5,2.305084745762712,Baku City Circuit,6.003,20,Anti clockwise,Street
+23,1013,2019,4,73,Azerbaijan Grand Prix,2019-04-28,12:10:00,baku,Baku,Azerbaijan,40.3725,49.8533,-7,15.0,1.3076923076923077,Baku City Circuit,6.003,20,Anti clockwise,Street
+24,992,2018,4,73,Azerbaijan Grand Prix,2018-04-29,12:10:00,baku,Baku,Azerbaijan,40.3725,49.8533,-7,15.3,1.7222222222222223,Baku City Circuit,6.003,20,Anti clockwise,Street
+25,976,2017,8,73,Azerbaijan Grand Prix,2017-06-25,13:00:00,baku,Baku,Azerbaijan,40.3725,49.8533,-7,25.1,2.4126984126984126,Baku City Circuit,6.003,20,Anti clockwise,Street
+26,955,2016,8,73,European Grand Prix,2016-06-19,13:00:00,baku,Baku,Azerbaijan,40.3725,49.8533,-7,26.8,1.3333333333333333,Baku City Circuit,6.003,20,Anti clockwise,Street
+27,1066,2021,15,71,Russian Grand Prix,2021-09-26,12:00:00,sochi,Sochi,Russia,43.4057,39.9578,2,14.8,1.5128205128205128,Sochi Autodrom,5.848,18,Clockwise,Road
+28,1040,2020,10,71,Russian Grand Prix,2020-09-27,11:10:00,sochi,Sochi,Russia,43.4057,39.9578,2,23.4,1.2916666666666667,Sochi Autodrom,5.848,18,Clockwise,Road
+29,1025,2019,16,71,Russian Grand Prix,2019-09-29,11:10:00,sochi,Sochi,Russia,43.4057,39.9578,2,17.4,1.24,Sochi Autodrom,5.848,18,Clockwise,Road
+30,1004,2018,16,71,Russian Grand Prix,2018-09-30,11:10:00,sochi,Sochi,Russia,43.4057,39.9578,2,,1.05,Sochi Autodrom,5.848,18,Clockwise,Road
+31,972,2017,4,71,Russian Grand Prix,2017-04-30,12:00:00,sochi,Sochi,Russia,43.4057,39.9578,2,,1.2,Sochi Autodrom,5.848,18,Clockwise,Road
+32,951,2016,4,71,Russian Grand Prix,2016-05-01,12:00:00,sochi,Sochi,Russia,43.4057,39.9578,2,,1.2692307692307692,Sochi Autodrom,5.848,18,Clockwise,Road
+33,941,2015,15,71,Russian Grand Prix,2015-10-11,11:00:00,sochi,Sochi,Russia,43.4057,39.9578,2,,1.105263157894737,Sochi Autodrom,5.848,18,Clockwise,Road
+34,915,2014,16,71,Russian Grand Prix,2014-10-12,11:00:00,sochi,Sochi,Russia,43.4057,39.9578,2,,1.1304347826086956,Sochi Autodrom,5.848,18,Clockwise,Road
+35,1155,2025,11,70,Austrian Grand Prix,2025-06-29,13:00:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,23.3,1.5,Red Bull Ring,4.318,10,Clockwise,Race
+36,1131,2024,11,70,Austrian Grand Prix,2024-06-30,13:00:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,23.1,1.6888888888888889,Red Bull Ring,4.318,10,Clockwise,Race
+37,1107,2023,9,70,Austrian Grand Prix,2023-07-02,13:00:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,17.5,2.111111111111111,Red Bull Ring,4.318,10,Clockwise,Race
+38,1084,2022,11,70,Austrian Grand Prix,2022-07-10,13:00:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,16.2,1.5952380952380953,Red Bull Ring,4.318,10,Clockwise,Race
+39,1058,2021,8,70,Styrian Grand Prix,2021-06-27,13:00:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,20.2,1.2083333333333333,Red Bull Ring,4.318,10,Clockwise,Race
+40,1060,2021,9,70,Austrian Grand Prix,2021-07-04,13:00:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,18.2,1.2962962962962963,Red Bull Ring,4.318,10,Clockwise,Race
+41,1031,2020,1,70,Austrian Grand Prix,2020-07-05,13:10:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,,1.7894736842105263,Red Bull Ring,4.318,10,Clockwise,Race
+42,1032,2020,2,70,Styrian Grand Prix,2020-07-12,13:10:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,15.2,1.1428571428571428,Red Bull Ring,4.318,10,Clockwise,Race
+43,1018,2019,9,70,Austrian Grand Prix,2019-06-30,13:10:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,23.3,1.173913043478261,Red Bull Ring,4.318,10,Clockwise,Race
+44,997,2018,9,70,Austrian Grand Prix,2018-07-01,13:10:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,17.0,1.2608695652173914,Red Bull Ring,4.318,10,Clockwise,Race
+45,977,2017,9,70,Austrian Grand Prix,2017-07-09,12:00:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,,1.2,Red Bull Ring,4.318,10,Clockwise,Race
+46,956,2016,9,70,Austrian Grand Prix,2016-07-03,12:00:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,14.8,2.4342105263157894,Red Bull Ring,4.318,10,Clockwise,Race
+47,933,2015,8,70,Austrian Grand Prix,2015-06-21,12:00:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,,1.2380952380952381,Red Bull Ring,4.318,10,Clockwise,Race
+48,907,2014,8,70,Austrian Grand Prix,2014-06-22,12:00:00,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678,,1.4878048780487805,Red Bull Ring,4.318,10,Clockwise,Race
+49,1163,2025,19,69,United States Grand Prix,2025-10-19,19:00:00,americas,Austin,USA,30.1328,-97.6411,161,23.5,1.0952380952380953,Circuit of the Americas,5.513,20,Anti clockwise,Race
+50,1139,2024,19,69,United States Grand Prix,2024-10-20,19:00:00,americas,Austin,USA,30.1328,-97.6411,161,22.5,1.173913043478261,Circuit of the Americas,5.513,20,Anti clockwise,Race
+51,1116,2023,18,69,United States Grand Prix,2023-10-22,19:00:00,americas,Austin,USA,30.1328,-97.6411,161,24.7,1.5277777777777777,Circuit of the Americas,5.513,20,Anti clockwise,Race
+52,1093,2022,19,69,United States Grand Prix,2022-10-23,19:00:00,americas,Austin,USA,30.1328,-97.6411,161,24.6,1.5,Circuit of the Americas,5.513,20,Anti clockwise,Race
+53,1069,2021,17,69,United States Grand Prix,2021-10-24,19:00:00,americas,Austin,USA,30.1328,-97.6411,161,24.3,1.5609756097560976,Circuit of the Americas,5.513,20,Anti clockwise,Race
+54,1028,2019,19,69,United States Grand Prix,2019-11-03,19:10:00,americas,Austin,USA,30.1328,-97.6411,161,13.9,1.4545454545454546,Circuit of the Americas,5.513,20,Anti clockwise,Race
+55,1006,2018,18,69,United States Grand Prix,2018-10-21,18:10:00,americas,Austin,USA,30.1328,-97.6411,161,17.7,1.2916666666666667,Circuit of the Americas,5.513,20,Anti clockwise,Race
+56,985,2017,17,69,United States Grand Prix,2017-10-22,19:00:00,americas,Austin,USA,30.1328,-97.6411,161,22.2,1.24,Circuit of the Americas,5.513,20,Anti clockwise,Race
+57,965,2016,18,69,United States Grand Prix,2016-10-23,19:00:00,americas,Austin,USA,30.1328,-97.6411,161,20.0,1.627906976744186,Circuit of the Americas,5.513,20,Anti clockwise,Race
+58,942,2015,16,69,United States Grand Prix,2015-10-25,19:00:00,americas,Austin,USA,30.1328,-97.6411,161,15.8,1.872340425531915,Circuit of the Americas,5.513,20,Anti clockwise,Race
+59,916,2014,17,69,United States Grand Prix,2014-11-02,20:00:00,americas,Austin,USA,30.1328,-97.6411,161,15.8,1.7222222222222223,Circuit of the Americas,5.513,20,Anti clockwise,Race
+60,898,2013,18,69,United States Grand Prix,2013-11-17,19:00:00,americas,Austin,USA,30.1328,-97.6411,161,25.3,1.2222222222222223,Circuit of the Americas,5.513,20,Anti clockwise,Race
+61,878,2012,19,69,United States Grand Prix,2012-11-18,19:00:00,americas,Austin,USA,30.1328,-97.6411,161,15.5,1.0833333333333333,Circuit of the Americas,5.513,20,Anti clockwise,Race
+62,896,2013,16,68,Indian Grand Prix,2013-10-27,9:30:00,buddh,Greater Noida,India,28.3487,77.5331,194,,1.6136363636363635,Buddh International Circuit,5.125,16,Clockwise,Race
+63,876,2012,17,68,Indian Grand Prix,2012-10-28,9:30:00,buddh,Greater Noida,India,28.3487,77.5331,194,21.8,1.1428571428571428,Buddh International Circuit,5.125,16,Clockwise,Race
+64,857,2011,17,68,Indian Grand Prix,2011-10-30,9:30:00,buddh,Greater Noida,India,28.3487,77.5331,194,22.6,1.6382978723404256,Buddh International Circuit,5.125,16,Clockwise,Race
+65,1159,2025,15,39,Dutch Grand Prix,2025-08-31,13:00:00,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,19.1,1.675,Circuit Park Zandvoort,4.259,14,Clockwise,Race
+66,1135,2024,15,39,Dutch Grand Prix,2024-08-25,13:00:00,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,17.2,1.2307692307692308,Circuit Park Zandvoort,4.259,14,Clockwise,Race
+67,1111,2023,13,39,Dutch Grand Prix,2023-08-27,13:00:00,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,15.9,3.287128712871287,Circuit Park Zandvoort,4.259,14,Clockwise,Race
+68,1088,2022,15,39,Dutch Grand Prix,2022-09-04,13:00:00,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,20.3,2.361111111111111,Circuit Park Zandvoort,4.259,14,Clockwise,Race
+69,1064,2021,13,39,Dutch Grand Prix,2021-09-05,13:00:00,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,16.4,1.3448275862068966,Circuit Park Zandvoort,4.259,14,Clockwise,Race
+70,894,2013,14,35,Korean Grand Prix,2013-10-06,6:00:00,yeongam,Yeongam,Korea,34.7333,126.417,0,22.2,1.6734693877551021,Korea International Circuit,5.615,18,Anti clockwise,Race
+71,875,2012,16,35,Korean Grand Prix,2012-10-14,6:00:00,yeongam,Yeongam,Korea,34.7333,126.417,0,17.0,1.5121951219512195,Korea International Circuit,5.615,18,Anti clockwise,Race
+72,856,2011,16,35,Korean Grand Prix,2011-10-16,6:00:00,yeongam,Yeongam,Korea,34.7333,126.417,0,17.1,1.6,Korea International Circuit,5.615,18,Anti clockwise,Race
+73,353,2010,17,35,Korean Grand Prix,2010-10-24,5:00:00,yeongam,Yeongam,Korea,34.7333,126.417,0,17.6,1.2592592592592593,Korea International Circuit,5.615,18,Anti clockwise,Race
+74,1085,2022,12,34,French Grand Prix,2022-07-24,13:00:00,ricard,Le Castellet,France,43.2506,5.79167,432,26.0,1.24,Circuit Paul Ricard,5.842,15,Clockwise,Race
+75,1059,2021,7,34,French Grand Prix,2021-06-20,13:00:00,ricard,Le Castellet,France,43.2506,5.79167,432,23.3,1.0909090909090908,Circuit Paul Ricard,5.842,15,Clockwise,Race
+76,1017,2019,8,34,French Grand Prix,2019-06-23,13:10:00,ricard,Le Castellet,France,43.2506,5.79167,432,,1.1304347826086956,Circuit Paul Ricard,5.842,15,Clockwise,Race
+77,996,2018,8,34,French Grand Prix,2018-06-24,14:10:00,ricard,Le Castellet,France,43.2506,5.79167,432,,1.15,Circuit Paul Ricard,5.842,15,Clockwise,Race
+78,1164,2025,20,32,Mexico City Grand Prix,2025-10-26,20:00:00,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227,19.0,1.3333333333333333,Autódromo Hermanos Rodríguez,4.304,17,Clockwise,Race
+79,1140,2024,20,32,Mexico City Grand Prix,2024-10-27,20:00:00,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227,15.4,1.2380952380952381,Autódromo Hermanos Rodríguez,4.304,17,Clockwise,Race
+80,1117,2023,19,32,Mexico City Grand Prix,2023-10-29,20:00:00,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227,18.5,1.5526315789473684,Autódromo Hermanos Rodríguez,4.304,17,Clockwise,Race
+81,1094,2022,20,32,Mexico City Grand Prix,2022-10-30,20:00:00,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227,19.5,1.1304347826086956,Autódromo Hermanos Rodríguez,4.304,17,Clockwise,Race
+82,1070,2021,18,32,Mexico City Grand Prix,2021-11-07,19:00:00,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227,15.3,1.4,Autódromo Hermanos Rodríguez,4.304,17,Clockwise,Race
+83,1027,2019,18,32,Mexican Grand Prix,2019-10-27,19:10:00,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227,17.4,1.2692307692307692,Autódromo Hermanos Rodríguez,4.304,17,Clockwise,Race
+84,1007,2018,19,32,Mexican Grand Prix,2018-10-28,19:10:00,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227,15.8,1.3793103448275863,Autódromo Hermanos Rodríguez,4.304,17,Clockwise,Race
+85,986,2017,18,32,Mexican Grand Prix,2017-10-29,19:00:00,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227,17.9,1.2173913043478262,Autódromo Hermanos Rodríguez,4.304,17,Clockwise,Race
+86,966,2016,19,32,Mexican Grand Prix,2016-10-30,19:00:00,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227,,1.25,Autódromo Hermanos Rodríguez,4.304,17,Clockwise,Race
+87,943,2015,17,32,Mexican Grand Prix,2015-11-01,19:00:00,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227,,1.605263157894737,Autódromo Hermanos Rodríguez,4.304,17,Clockwise,Race
+88,1168,2025,24,24,Abu Dhabi Grand Prix,2025-12-07,13:00:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,24.5,1.2592592592592593,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+89,1144,2024,24,24,Abu Dhabi Grand Prix,2024-12-08,13:00:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,25.3,1.4642857142857142,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+90,1120,2023,22,24,Abu Dhabi Grand Prix,2023-11-26,13:00:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,25.4,1.4594594594594594,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+91,1096,2022,22,24,Abu Dhabi Grand Prix,2022-11-20,13:00:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,28.2,1.3548387096774193,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+92,1073,2021,22,24,Abu Dhabi Grand Prix,2021-12-12,13:00:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,23.7,1.4482758620689655,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+93,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,13:10:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,22.3,1.2173913043478262,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+94,1030,2019,21,24,Abu Dhabi Grand Prix,2019-12-01,13:10:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,24.1,1.24,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+95,1009,2018,21,24,Abu Dhabi Grand Prix,2018-11-25,13:10:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,27.1,1.0555555555555556,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+96,988,2017,20,24,Abu Dhabi Grand Prix,2017-11-26,13:00:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,24.2,1.1363636363636365,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+97,968,2016,21,24,Abu Dhabi Grand Prix,2016-11-27,13:00:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,24.5,1.4864864864864864,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+98,945,2015,19,24,Abu Dhabi Grand Prix,2015-11-29,13:00:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,24.5,1.6904761904761905,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+99,918,2014,19,24,Abu Dhabi Grand Prix,2014-11-23,13:00:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,24.1,1.5853658536585367,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+100,897,2013,17,24,Abu Dhabi Grand Prix,2013-11-03,13:00:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,29.5,1.5121951219512195,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+101,877,2012,18,24,Abu Dhabi Grand Prix,2012-11-04,13:00:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,28.3,1.3666666666666667,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+102,858,2011,18,24,Abu Dhabi Grand Prix,2011-11-13,13:00:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,23.5,1.5476190476190477,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+103,355,2010,19,24,Abu Dhabi Grand Prix,2010-11-14,13:00:00,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3,26.9,1.0,Yas Marina Circuit,5.281,16,Anti clockwise,Race
+104,1147,2025,3,22,Japanese Grand Prix,2025-04-06,5:00:00,suzuka,Suzuka,Japan,34.8431,136.541,45,12.4,1.0476190476190477,Suzuka Circuit,5.807,18,Clockwise,Race
+105,1124,2024,4,22,Japanese Grand Prix,2024-04-07,5:00:00,suzuka,Suzuka,Japan,34.8431,136.541,45,18.3,2.037037037037037,Suzuka Circuit,5.807,18,Clockwise,Race
+106,1114,2023,16,22,Japanese Grand Prix,2023-09-24,5:00:00,suzuka,Suzuka,Japan,34.8431,136.541,45,21.6,1.6744186046511629,Suzuka Circuit,5.807,18,Clockwise,Race
+107,1092,2022,18,22,Japanese Grand Prix,2022-10-09,5:00:00,suzuka,Suzuka,Japan,34.8431,136.541,45,16.8,1.7380952380952381,Suzuka Circuit,5.807,18,Clockwise,Race
+108,1026,2019,17,22,Japanese Grand Prix,2019-10-13,5:10:00,suzuka,Suzuka,Japan,34.8431,136.541,45,17.5,1.4193548387096775,Suzuka Circuit,5.807,18,Clockwise,Race
+109,1005,2018,17,22,Japanese Grand Prix,2018-10-07,5:10:00,suzuka,Suzuka,Japan,34.8431,136.541,45,20.3,1.1304347826086956,Suzuka Circuit,5.807,18,Clockwise,Race
+110,984,2017,16,22,Japanese Grand Prix,2017-10-08,5:00:00,suzuka,Suzuka,Japan,34.8431,136.541,45,20.9,1.2727272727272727,Suzuka Circuit,5.807,18,Clockwise,Race
+111,964,2016,17,22,Japanese Grand Prix,2016-10-09,5:00:00,suzuka,Suzuka,Japan,34.8431,136.541,45,16.8,1.4210526315789473,Suzuka Circuit,5.807,18,Clockwise,Race
+112,940,2015,14,22,Japanese Grand Prix,2015-09-27,5:00:00,suzuka,Suzuka,Japan,34.8431,136.541,45,19.8,1.6666666666666667,Suzuka Circuit,5.807,18,Clockwise,Race
+113,914,2014,15,22,Japanese Grand Prix,2014-10-05,6:00:00,suzuka,Suzuka,Japan,34.8431,136.541,45,19.4,2.4177215189873418,Suzuka Circuit,5.807,18,Clockwise,Race
+114,895,2013,15,22,Japanese Grand Prix,2013-10-13,6:00:00,suzuka,Suzuka,Japan,34.8431,136.541,45,16.8,1.7916666666666667,Suzuka Circuit,5.807,18,Clockwise,Race
+115,874,2012,15,22,Japanese Grand Prix,2012-10-07,6:00:00,suzuka,Suzuka,Japan,34.8431,136.541,45,17.9,1.6304347826086956,Suzuka Circuit,5.807,18,Clockwise,Race
+116,855,2011,15,22,Japanese Grand Prix,2011-10-09,6:00:00,suzuka,Suzuka,Japan,34.8431,136.541,45,16.9,1.9076923076923078,Suzuka Circuit,5.807,18,Clockwise,Race
+117,352,2010,16,22,Japanese Grand Prix,2010-10-10,6:00:00,suzuka,Suzuka,Japan,34.8431,136.541,45,20.4,1.1,Suzuka Circuit,5.807,18,Clockwise,Race
+118,1151,2025,7,21,Emilia Romagna Grand Prix,2025-05-18,13:00:00,imola,Imola,Italy,44.3439,11.7167,37,17.4,1.4864864864864864,Autodromo Internazionale Enzo e Dino Ferrari,4.909,19,Anti clockwise,Race
+119,1127,2024,7,21,Emilia Romagna Grand Prix,2024-05-19,13:00:00,imola,Imola,Italy,44.3439,11.7167,37,18.2,1.4074074074074074,Autodromo Internazionale Enzo e Dino Ferrari,4.909,19,Anti clockwise,Race
+120,1077,2022,4,21,Emilia Romagna Grand Prix,2022-04-24,13:00:00,imola,Imola,Italy,44.3439,11.7167,37,12.6,1.36,Autodromo Internazionale Enzo e Dino Ferrari,4.909,19,Anti clockwise,Race
+121,1053,2021,2,21,Emilia Romagna Grand Prix,2021-04-18,13:00:00,imola,Imola,Italy,44.3439,11.7167,37,9.2,2.2142857142857144,Autodromo Internazionale Enzo e Dino Ferrari,4.909,19,Anti clockwise,Race
+122,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,12:10:00,imola,Imola,Italy,44.3439,11.7167,37,,1.4,Autodromo Internazionale Enzo e Dino Ferrari,4.909,19,Anti clockwise,Race
+123,1041,2020,11,20,Eifel Grand Prix,2020-10-11,13:10:00,nurburgring,Nürburg,Germany,50.3356,6.9475,578,7.4,1.4242424242424243,Nürburgring,5.148,15,Clockwise,Race
+124,888,2013,9,20,German Grand Prix,2013-07-07,12:00:00,nurburgring,Nürburg,Germany,50.3356,6.9475,578,19.3,1.9107142857142858,Nürburgring,5.148,15,Clockwise,Race
+125,850,2011,10,20,German Grand Prix,2011-07-24,12:00:00,nurburgring,Nürburg,Germany,50.3356,6.9475,578,10.7,1.72,Nürburgring,5.148,15,Clockwise,Race
+126,1165,2025,21,18,São Paulo Grand Prix,2025-11-09,17:00:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,16.4,1.5945945945945945,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+127,1141,2024,21,18,São Paulo Grand Prix,2024-11-03,17:00:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,20.0,1.6,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+128,1118,2023,20,18,São Paulo Grand Prix,2023-11-05,17:00:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,17.7,2.4925373134328357,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+129,1095,2022,21,18,São Paulo Grand Prix,2022-11-13,18:00:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,22.4,1.7727272727272727,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+130,1071,2021,19,18,São Paulo Grand Prix,2021-11-14,17:00:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,17.9,2.5316455696202533,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+131,1029,2019,20,18,Brazilian Grand Prix,2019-11-17,17:10:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,18.8,1.711111111111111,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+132,1008,2018,20,18,Brazilian Grand Prix,2018-11-11,17:10:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,22.3,1.24,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+133,987,2017,19,18,Brazilian Grand Prix,2017-11-12,16:00:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,20.6,2.550724637681159,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+134,967,2016,20,18,Brazilian Grand Prix,2016-11-13,16:00:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,17.5,2.274193548387097,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+135,944,2015,18,18,Brazilian Grand Prix,2015-11-15,16:00:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,22.3,1.836734693877551,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+136,917,2014,18,18,Brazilian Grand Prix,2014-11-09,16:00:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,20.9,1.9615384615384615,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+137,899,2013,19,18,Brazilian Grand Prix,2013-11-24,16:00:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,19.2,1.6808510638297873,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+138,879,2012,20,18,Brazilian Grand Prix,2012-11-25,16:00:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,19.2,2.318840579710145,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+139,859,2011,19,18,Brazilian Grand Prix,2011-11-27,16:00:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,20.9,1.8103448275862069,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+140,354,2010,18,18,Brazilian Grand Prix,2010-11-07,16:00:00,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785,19.2,1.5,Autódromo José Carlos Pace,4.309,15,Anti clockwise,Race
+141,1146,2025,2,17,Chinese Grand Prix,2025-03-23,7:00:00,shanghai,Shanghai,China,31.3389,121.22,5,19.7,1.28,Shanghai International Circuit,5.451,16,Clockwise,Race
+142,1125,2024,5,17,Chinese Grand Prix,2024-04-21,7:00:00,shanghai,Shanghai,China,31.3389,121.22,5,17.3,1.65,Shanghai International Circuit,5.451,16,Clockwise,Race
+143,1012,2019,3,17,Chinese Grand Prix,2019-04-14,6:10:00,shanghai,Shanghai,China,31.3389,121.22,5,14.8,1.5405405405405406,Shanghai International Circuit,5.451,16,Clockwise,Race
+144,991,2018,3,17,Chinese Grand Prix,2018-04-15,6:10:00,shanghai,Shanghai,China,31.3389,121.22,5,15.4,1.3333333333333333,Shanghai International Circuit,5.451,16,Clockwise,Race
+145,970,2017,2,17,Chinese Grand Prix,2017-04-09,6:00:00,shanghai,Shanghai,China,31.3389,121.22,5,12.6,2.7804878048780486,Shanghai International Circuit,5.451,16,Clockwise,Race
+146,950,2016,3,17,Chinese Grand Prix,2016-04-17,6:00:00,shanghai,Shanghai,China,31.3389,121.22,5,18.0,2.0757575757575757,Shanghai International Circuit,5.451,16,Clockwise,Race
+147,928,2015,3,17,Chinese Grand Prix,2015-04-12,6:00:00,shanghai,Shanghai,China,31.3389,121.22,5,14.5,1.5789473684210527,Shanghai International Circuit,5.451,16,Clockwise,Race
+148,903,2014,4,17,Chinese Grand Prix,2014-04-20,7:00:00,shanghai,Shanghai,China,31.3389,121.22,5,14.4,1.6222222222222222,Shanghai International Circuit,5.451,16,Clockwise,Race
+149,882,2013,3,17,Chinese Grand Prix,2013-04-14,7:00:00,shanghai,Shanghai,China,31.3389,121.22,5,17.0,1.9473684210526316,Shanghai International Circuit,5.451,16,Clockwise,Race
+150,862,2012,3,17,Chinese Grand Prix,2012-04-15,7:00:00,shanghai,Shanghai,China,31.3389,121.22,5,16.6,1.709090909090909,Shanghai International Circuit,5.451,16,Clockwise,Race
+151,843,2011,3,17,Chinese Grand Prix,2011-04-17,7:00:00,shanghai,Shanghai,China,31.3389,121.22,5,14.4,1.8103448275862069,Shanghai International Circuit,5.451,16,Clockwise,Race
+152,340,2010,4,17,Chinese Grand Prix,2010-04-18,6:00:00,shanghai,Shanghai,China,31.3389,121.22,5,17.3,2.5671641791044775,Shanghai International Circuit,5.451,16,Clockwise,Race
+153,1162,2025,18,15,Singapore Grand Prix,2025-10-05,12:00:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,29.0,1.1304347826086956,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+154,1138,2024,18,15,Singapore Grand Prix,2024-09-22,12:00:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,30.2,1.173913043478261,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+155,1113,2023,15,15,Singapore Grand Prix,2023-09-17,12:00:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,29.0,1.28,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+156,1091,2022,17,15,Singapore Grand Prix,2022-10-02,12:00:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,26.9,1.4285714285714286,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+157,1024,2019,15,15,Singapore Grand Prix,2019-09-22,12:10:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,29.5,1.3571428571428572,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+158,1003,2018,15,15,Singapore Grand Prix,2018-09-16,12:10:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,28.8,1.32,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+159,982,2017,14,15,Singapore Grand Prix,2017-09-17,12:00:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,29.3,3.024390243902439,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+160,962,2016,15,15,Singapore Grand Prix,2016-09-18,12:00:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,28.2,2.25,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+161,939,2015,13,15,Singapore Grand Prix,2015-09-20,12:00:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,29.3,1.6428571428571428,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+162,913,2014,14,15,Singapore Grand Prix,2014-09-21,12:00:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,28.4,1.9444444444444444,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+163,893,2013,13,15,Singapore Grand Prix,2013-09-22,12:00:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,29.2,1.8148148148148149,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+164,873,2012,14,15,Singapore Grand Prix,2012-09-23,12:00:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,28.4,1.7678571428571428,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+165,854,2011,14,15,Singapore Grand Prix,2011-09-25,12:00:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,28.9,2.101449275362319,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+166,351,2010,15,15,Singapore Grand Prix,2010-09-26,12:00:00,marina_bay,Singapore,Singapore,1.2914,103.864,18,28.7,1.3076923076923077,Marina Bay Street Circuit,4.94,19,Anti clockwise,Street
+167,1160,2025,16,14,Italian Grand Prix,2025-09-07,13:00:00,monza,Monza,Italy,45.6156,9.28111,162,13.6,1.0,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+168,1136,2024,16,14,Italian Grand Prix,2024-09-01,13:00:00,monza,Monza,Italy,45.6156,9.28111,162,12.4,1.4,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+169,1112,2023,14,14,Italian Grand Prix,2023-09-03,13:00:00,monza,Monza,Italy,45.6156,9.28111,162,17.5,1.24,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+170,1089,2022,16,14,Italian Grand Prix,2022-09-11,13:00:00,monza,Monza,Italy,45.6156,9.28111,162,13.6,1.3928571428571428,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+171,1065,2021,14,14,Italian Grand Prix,2021-09-12,13:00:00,monza,Monza,Italy,45.6156,9.28111,162,14.9,1.2272727272727273,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+172,1038,2020,8,14,Italian Grand Prix,2020-09-06,13:10:00,monza,Monza,Italy,45.6156,9.28111,162,13.7,1.5405405405405406,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+173,1023,2019,14,14,Italian Grand Prix,2019-09-08,13:10:00,monza,Monza,Italy,45.6156,9.28111,162,6.9,1.3448275862068966,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+174,1002,2018,14,14,Italian Grand Prix,2018-09-02,13:10:00,monza,Monza,Italy,45.6156,9.28111,162,11.1,1.1428571428571428,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+175,981,2017,13,14,Italian Grand Prix,2017-09-03,12:00:00,monza,Monza,Italy,45.6156,9.28111,162,17.8,1.0952380952380953,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+176,961,2016,14,14,Italian Grand Prix,2016-09-04,12:00:00,monza,Monza,Italy,45.6156,9.28111,162,24.6,1.4871794871794872,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+177,938,2015,12,14,Italian Grand Prix,2015-09-06,12:00:00,monza,Monza,Italy,45.6156,9.28111,162,17.0,1.2608695652173914,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+178,912,2014,13,14,Italian Grand Prix,2014-09-07,12:00:00,monza,Monza,Italy,45.6156,9.28111,162,22.0,1.1304347826086956,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+179,892,2013,12,14,Italian Grand Prix,2013-09-08,12:00:00,monza,Monza,Italy,45.6156,9.28111,162,22.7,1.1666666666666667,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+180,872,2012,13,14,Italian Grand Prix,2012-09-09,12:00:00,monza,Monza,Italy,45.6156,9.28111,162,22.7,1.2580645161290323,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+181,853,2011,13,14,Italian Grand Prix,2011-09-11,12:00:00,monza,Monza,Italy,45.6156,9.28111,162,23.6,1.542857142857143,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+182,350,2010,14,14,Italian Grand Prix,2010-09-12,12:00:00,monza,Monza,Italy,45.6156,9.28111,162,19.2,1.0869565217391304,Autodromo Nazionale Monza,5.793,11,Clockwise,Race
+183,1157,2025,13,13,Belgian Grand Prix,2025-07-27,13:00:00,spa,Spa,Belgium,50.4372,5.97139,401,15.5,1.2307692307692308,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+184,1134,2024,14,13,Belgian Grand Prix,2024-07-28,13:00:00,spa,Spa,Belgium,50.4372,5.97139,401,15.8,1.4705882352941178,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+185,1110,2023,12,13,Belgian Grand Prix,2023-07-30,13:00:00,spa,Spa,Belgium,50.4372,5.97139,401,14.0,1.5675675675675675,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+186,1087,2022,14,13,Belgian Grand Prix,2022-08-28,13:00:00,spa,Spa,Belgium,50.4372,5.97139,401,15.2,1.5789473684210527,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+187,1037,2020,7,13,Belgian Grand Prix,2020-08-30,13:10:00,spa,Spa,Belgium,50.4372,5.97139,401,12.5,1.15,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+188,1022,2019,13,13,Belgian Grand Prix,2019-09-01,13:10:00,spa,Spa,Belgium,50.4372,5.97139,401,14.6,1.25,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+189,1001,2018,13,13,Belgian Grand Prix,2018-08-26,13:10:00,spa,Spa,Belgium,50.4372,5.97139,401,11.5,1.588235294117647,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+190,980,2017,12,13,Belgian Grand Prix,2017-08-27,12:00:00,spa,Spa,Belgium,50.4372,5.97139,401,18.0,1.675,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+191,960,2016,13,13,Belgian Grand Prix,2016-08-28,12:00:00,spa,Spa,Belgium,50.4372,5.97139,401,22.3,2.0588235294117645,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+192,937,2015,11,13,Belgian Grand Prix,2015-08-23,12:00:00,spa,Spa,Belgium,50.4372,5.97139,401,17.7,1.631578947368421,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+193,911,2014,12,13,Belgian Grand Prix,2014-08-24,12:00:00,spa,Spa,Belgium,50.4372,5.97139,401,10.7,1.6956521739130435,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+194,891,2013,11,13,Belgian Grand Prix,2013-08-25,12:00:00,spa,Spa,Belgium,50.4372,5.97139,401,13.9,1.5813953488372092,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+195,871,2012,12,13,Belgian Grand Prix,2012-09-02,12:00:00,spa,Spa,Belgium,50.4372,5.97139,401,13.2,1.5263157894736843,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+196,852,2011,12,13,Belgian Grand Prix,2011-08-28,12:00:00,spa,Spa,Belgium,50.4372,5.97139,401,12.0,1.7884615384615385,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+197,349,2010,13,13,Belgian Grand Prix,2010-08-29,12:00:00,spa,Spa,Belgium,50.4372,5.97139,401,10.4,1.9433962264150944,Circuit de Spa-Francorchamps,7.004,19,Clockwise,Race
+198,867,2012,8,12,European Grand Prix,2012-06-24,12:00:00,valencia,Valencia,Spain,39.4589,-0.331667,4,,1.6734693877551021,Valencia Street Circuit,5.419,25,Clockwise,Street
+199,848,2011,8,12,European Grand Prix,2011-06-26,12:00:00,valencia,Valencia,Spain,39.4589,-0.331667,4,,1.9076923076923078,Valencia Street Circuit,5.419,25,Clockwise,Street
+200,345,2010,9,12,European Grand Prix,2010-06-27,12:00:00,valencia,Valencia,Spain,39.4589,-0.331667,4,,1.2413793103448276,Valencia Street Circuit,5.419,25,Clockwise,Street
+201,1158,2025,14,11,Hungarian Grand Prix,2025-08-03,13:00:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,20.3,1.3103448275862069,Hungaroring,4.381,14,Clockwise,Race
+202,1133,2024,13,11,Hungarian Grand Prix,2024-07-21,13:00:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,24.6,1.55,Hungaroring,4.381,14,Clockwise,Race
+203,1109,2023,11,11,Hungarian Grand Prix,2023-07-23,13:00:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,23.3,1.5,Hungaroring,4.381,14,Clockwise,Race
+204,1086,2022,13,11,Hungarian Grand Prix,2022-07-31,13:00:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,19.1,1.6428571428571428,Hungaroring,4.381,14,Clockwise,Race
+205,1062,2021,11,11,Hungarian Grand Prix,2021-08-01,13:00:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,22.6,2.269230769230769,Hungaroring,4.381,14,Clockwise,Race
+206,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,13:10:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,17.5,1.8,Hungaroring,4.381,14,Clockwise,Race
+207,1021,2019,12,11,Hungarian Grand Prix,2019-08-04,13:10:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,19.8,1.1666666666666667,Hungaroring,4.381,14,Clockwise,Race
+208,1000,2018,12,11,Hungarian Grand Prix,2018-07-29,13:10:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,26.6,1.1,Hungaroring,4.381,14,Clockwise,Race
+209,979,2017,11,11,Hungarian Grand Prix,2017-07-30,12:00:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,23.5,1.0952380952380953,Hungaroring,4.381,14,Clockwise,Race
+210,958,2016,11,11,Hungarian Grand Prix,2016-07-24,12:00:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,24.8,1.5555555555555556,Hungaroring,4.381,14,Clockwise,Race
+211,936,2015,10,11,Hungarian Grand Prix,2015-07-26,12:00:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,21.9,2.96875,Hungaroring,4.381,14,Clockwise,Race
+212,910,2014,11,11,Hungarian Grand Prix,2014-07-27,12:00:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,22.4,1.6818181818181819,Hungaroring,4.381,14,Clockwise,Race
+213,890,2013,10,11,Hungarian Grand Prix,2013-07-28,12:00:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,28.3,1.9107142857142858,Hungaroring,4.381,14,Clockwise,Race
+214,870,2012,11,11,Hungarian Grand Prix,2012-07-29,12:00:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,24.7,1.7758620689655173,Hungaroring,4.381,14,Clockwise,Race
+215,851,2011,11,11,Hungarian Grand Prix,2011-07-31,12:00:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,16.5,2.5113636363636362,Hungaroring,4.381,14,Clockwise,Race
+216,348,2010,12,11,Hungarian Grand Prix,2010-08-01,12:00:00,hungaroring,Budapest,Hungary,47.5789,19.2486,264,22.9,1.12,Hungaroring,4.381,14,Clockwise,Race
+217,1020,2019,11,10,German Grand Prix,2019-07-28,13:10:00,hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,20.7,2.7435897435897436,Hockenheimring,4.574,17,Clockwise,Race
+218,999,2018,11,10,German Grand Prix,2018-07-22,13:10:00,hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,20.2,1.7,Hockenheimring,4.574,17,Clockwise,Race
+219,959,2016,12,10,German Grand Prix,2016-07-31,12:00:00,hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,20.5,1.9,Hockenheimring,4.574,17,Clockwise,Race
+220,909,2014,10,10,German Grand Prix,2014-07-20,12:00:00,hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,22.6,1.8727272727272728,Hockenheimring,4.574,17,Clockwise,Race
+221,869,2012,10,10,German Grand Prix,2012-07-22,12:00:00,hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,15.9,1.8166666666666667,Hockenheimring,4.574,17,Clockwise,Race
+222,347,2010,11,10,German Grand Prix,2010-07-25,12:00:00,hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,16.6,1.3103448275862069,Hockenheimring,4.574,17,Clockwise,Race
+223,1156,2025,12,9,British Grand Prix,2025-07-06,14:00:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,16.4,1.5714285714285714,Silverstone Circuit,5.891,18,Clockwise,Race
+224,1132,2024,12,9,British Grand Prix,2024-07-07,14:00:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,13.0,1.8222222222222222,Silverstone Circuit,5.891,18,Clockwise,Race
+225,1108,2023,10,9,British Grand Prix,2023-07-09,14:00:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,18.5,1.2916666666666667,Silverstone Circuit,5.891,18,Clockwise,Race
+226,1083,2022,10,9,British Grand Prix,2022-07-03,14:00:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,15.0,1.9787234042553192,Silverstone Circuit,5.891,18,Clockwise,Race
+227,1061,2021,10,9,British Grand Prix,2021-07-18,14:00:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,23.5,1.6341463414634145,Silverstone Circuit,5.891,18,Clockwise,Race
+228,1034,2020,4,9,British Grand Prix,2020-08-02,13:10:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,16.9,1.2272727272727273,Silverstone Circuit,5.891,18,Clockwise,Race
+229,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,13:10:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,19.1,1.6097560975609757,Silverstone Circuit,5.891,18,Clockwise,Race
+230,1019,2019,10,9,British Grand Prix,2019-07-14,13:10:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,15.2,1.3793103448275863,Silverstone Circuit,5.891,18,Clockwise,Race
+231,998,2018,10,9,British Grand Prix,2018-07-08,13:10:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,,1.3214285714285714,Silverstone Circuit,5.891,18,Clockwise,Race
+232,978,2017,10,9,British Grand Prix,2017-07-16,12:00:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,,1.4074074074074074,Silverstone Circuit,5.891,18,Clockwise,Race
+233,957,2016,10,9,British Grand Prix,2016-07-10,12:00:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,,1.6170212765957446,Silverstone Circuit,5.891,18,Clockwise,Race
+234,934,2015,9,9,British Grand Prix,2015-07-05,12:00:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,,1.696969696969697,Silverstone Circuit,5.891,18,Clockwise,Race
+235,908,2014,9,9,British Grand Prix,2014-07-06,12:00:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,,1.3043478260869565,Silverstone Circuit,5.891,18,Clockwise,Race
+236,887,2013,8,9,British Grand Prix,2013-06-30,12:00:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,,1.8363636363636364,Silverstone Circuit,5.891,18,Clockwise,Race
+237,868,2012,9,9,British Grand Prix,2012-07-08,12:00:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,,1.4651162790697674,Silverstone Circuit,5.891,18,Clockwise,Race
+238,849,2011,9,9,British Grand Prix,2011-07-10,12:00:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,,1.7777777777777777,Silverstone Circuit,5.891,18,Clockwise,Race
+239,346,2010,10,9,British Grand Prix,2010-07-11,12:00:00,silverstone,Silverstone,UK,52.0786,-1.01694,153,,1.2142857142857142,Silverstone Circuit,5.891,18,Clockwise,Race
+240,1154,2025,10,7,Canadian Grand Prix,2025-06-15,18:00:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,16.4,2.7560975609756095,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+241,1129,2024,9,7,Canadian Grand Prix,2024-06-09,18:00:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,16.6,1.7380952380952381,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+242,1106,2023,8,7,Canadian Grand Prix,2023-06-18,18:00:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,15.4,1.4242424242424243,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+243,1082,2022,9,7,Canadian Grand Prix,2022-06-19,18:00:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,16.0,1.4375,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+244,1016,2019,7,7,Canadian Grand Prix,2019-06-09,18:10:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,20.4,1.1363636363636365,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+245,995,2018,7,7,Canadian Grand Prix,2018-06-10,18:10:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,12.8,1.1,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+246,975,2017,7,7,Canadian Grand Prix,2017-06-11,18:00:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,24.4,1.1904761904761905,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+247,954,2016,7,7,Canadian Grand Prix,2016-06-12,18:00:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,12.9,1.4722222222222223,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+248,932,2015,7,7,Canadian Grand Prix,2015-06-07,18:00:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,13.2,1.1304347826086956,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+249,906,2014,7,7,Canadian Grand Prix,2014-06-08,18:00:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,21.7,1.5151515151515151,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+250,886,2013,7,7,Canadian Grand Prix,2013-06-09,18:00:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,18.5,1.6363636363636365,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+251,866,2012,7,7,Canadian Grand Prix,2012-06-10,18:00:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,17.8,1.4594594594594594,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+252,847,2011,7,7,Canadian Grand Prix,2011-06-12,17:00:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,15.6,2.3466666666666667,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+253,344,2010,8,7,Canadian Grand Prix,2010-06-13,16:00:00,villeneuve,Montreal,Canada,45.5,-73.5228,13,18.9,2.0,Circuit Gilles Villeneuve,4.361,13,Clockwise,Street
+254,1152,2025,8,6,Monaco Grand Prix,2025-05-25,13:00:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,17.8,1.55,Circuit de Monaco,3.337,19,Clockwise,Street
+255,1128,2024,8,6,Monaco Grand Prix,2024-05-26,13:00:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,17.9,1.3478260869565217,Circuit de Monaco,3.337,19,Clockwise,Street
+256,1104,2023,6,6,Monaco Grand Prix,2023-05-28,13:00:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,20.8,1.6756756756756757,Circuit de Monaco,3.337,19,Clockwise,Street
+257,1080,2022,7,6,Monaco Grand Prix,2022-05-29,13:00:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,21.9,2.0,Circuit de Monaco,3.337,19,Clockwise,Street
+258,1056,2021,5,6,Monaco Grand Prix,2021-05-23,13:00:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,18.0,1.0526315789473684,Circuit de Monaco,3.337,19,Clockwise,Street
+259,1015,2019,6,6,Monaco Grand Prix,2019-05-26,13:10:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,17.6,1.1304347826086956,Circuit de Monaco,3.337,19,Clockwise,Street
+260,994,2018,6,6,Monaco Grand Prix,2018-05-27,13:10:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,22.7,1.3076923076923077,Circuit de Monaco,3.337,19,Clockwise,Street
+261,974,2017,6,6,Monaco Grand Prix,2017-05-28,12:00:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,21.5,1.3928571428571428,Circuit de Monaco,3.337,19,Clockwise,Street
+262,953,2016,6,6,Monaco Grand Prix,2016-05-29,12:00:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,17.8,1.7333333333333334,Circuit de Monaco,3.337,19,Clockwise,Street
+263,931,2015,6,6,Monaco Grand Prix,2015-05-24,12:00:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,17.6,1.4516129032258065,Circuit de Monaco,3.337,19,Clockwise,Street
+264,905,2014,6,6,Monaco Grand Prix,2014-05-25,12:00:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,16.5,1.3703703703703705,Circuit de Monaco,3.337,19,Clockwise,Street
+265,885,2013,6,6,Monaco Grand Prix,2013-05-26,12:00:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,13.6,1.3666666666666667,Circuit de Monaco,3.337,19,Clockwise,Street
+266,865,2012,6,6,Monaco Grand Prix,2012-05-27,12:00:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,17.5,1.1923076923076923,Circuit de Monaco,3.337,19,Clockwise,Street
+267,846,2011,6,6,Monaco Grand Prix,2011-05-29,12:00:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,18.6,1.558139534883721,Circuit de Monaco,3.337,19,Clockwise,Street
+268,342,2010,6,6,Monaco Grand Prix,2010-05-16,12:00:00,monaco,Monte Carlo,Monaco,43.7347,7.42056,7,16.2,1.05,Circuit de Monaco,3.337,19,Clockwise,Street
+269,1067,2021,16,5,Turkish Grand Prix,2021-10-10,12:00:00,istanbul,Istanbul,Turkey,40.9517,29.405,130,17.5,1.05,Istanbul Park,5.338,14,Anti clockwise,Race
+270,1044,2020,14,5,Turkish Grand Prix,2020-11-15,10:10:00,istanbul,Istanbul,Turkey,40.9517,29.405,130,11.7,1.5263157894736843,Istanbul Park,5.338,14,Anti clockwise,Race
+271,844,2011,4,5,Turkish Grand Prix,2011-05-08,12:00:00,istanbul,Istanbul,Turkey,40.9517,29.405,130,11.2,2.3292682926829267,Istanbul Park,5.338,14,Anti clockwise,Race
+272,343,2010,7,5,Turkish Grand Prix,2010-05-30,11:00:00,istanbul,Istanbul,Turkey,40.9517,29.405,130,22.8,1.1851851851851851,Istanbul Park,5.338,14,Anti clockwise,Race
+273,1153,2025,9,4,Spanish Grand Prix,2025-06-01,13:00:00,catalunya,Montmeló,Spain,41.57,2.26111,109,23.3,1.9814814814814814,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+274,1130,2024,10,4,Spanish Grand Prix,2024-06-23,13:00:00,catalunya,Montmeló,Spain,41.57,2.26111,109,21.3,1.5714285714285714,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+275,1105,2023,7,4,Spanish Grand Prix,2023-06-04,13:00:00,catalunya,Montmeló,Spain,41.57,2.26111,109,20.8,1.6046511627906976,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+276,1079,2022,6,4,Spanish Grand Prix,2022-05-22,13:00:00,catalunya,Montmeló,Spain,41.57,2.26111,109,22.4,1.9245283018867925,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+277,1055,2021,4,4,Spanish Grand Prix,2021-05-09,13:00:00,catalunya,Montmeló,Spain,41.57,2.26111,109,17.1,1.5135135135135136,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+278,1036,2020,6,4,Spanish Grand Prix,2020-08-16,13:10:00,catalunya,Montmeló,Spain,41.57,2.26111,109,26.2,1.457142857142857,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+279,1014,2019,5,4,Spanish Grand Prix,2019-05-12,13:10:00,catalunya,Montmeló,Spain,41.57,2.26111,109,17.2,1.4594594594594594,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+280,993,2018,5,4,Spanish Grand Prix,2018-05-13,13:10:00,catalunya,Montmeló,Spain,41.57,2.26111,109,15.8,1.2857142857142858,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+281,973,2017,5,4,Spanish Grand Prix,2017-05-14,12:00:00,catalunya,Montmeló,Spain,41.57,2.26111,109,20.1,1.6216216216216217,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+282,952,2016,5,4,Spanish Grand Prix,2016-05-15,12:00:00,catalunya,Montmeló,Spain,41.57,2.26111,109,19.6,1.7659574468085106,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+283,930,2015,5,4,Spanish Grand Prix,2015-05-10,12:00:00,catalunya,Montmeló,Spain,41.57,2.26111,109,21.2,1.7173913043478262,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+284,904,2014,5,4,Spanish Grand Prix,2014-05-11,12:00:00,catalunya,Montmeló,Spain,41.57,2.26111,109,20.6,1.6666666666666667,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+285,884,2013,5,4,Spanish Grand Prix,2013-05-12,12:00:00,catalunya,Montmeló,Spain,41.57,2.26111,109,17.8,2.4683544303797467,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+286,864,2012,5,4,Spanish Grand Prix,2012-05-13,12:00:00,catalunya,Montmeló,Spain,41.57,2.26111,109,20.2,2.029850746268657,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+287,845,2011,5,4,Spanish Grand Prix,2011-05-22,12:00:00,catalunya,Montmeló,Spain,41.57,2.26111,109,21.7,2.168831168831169,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+288,341,2010,5,4,Spanish Grand Prix,2010-05-09,12:00:00,catalunya,Montmeló,Spain,41.57,2.26111,109,15.1,1.25,Circuit de Barcelona-Catalunya,4.657,14,Clockwise,Race
+289,1148,2025,4,3,Bahrain Grand Prix,2025-04-13,15:00:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,26.7,1.5714285714285714,Bahrain International Circuit,5.412,15,Clockwise,Race
+290,1121,2024,1,3,Bahrain Grand Prix,2024-03-02,15:00:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,15.6,1.6046511627906976,Bahrain International Circuit,5.412,15,Clockwise,Race
+291,1098,2023,1,3,Bahrain Grand Prix,2023-03-05,15:00:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,24.1,1.98,Bahrain International Circuit,5.412,15,Clockwise,Race
+292,1074,2022,1,3,Bahrain Grand Prix,2022-03-20,15:00:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,21.6,1.9655172413793103,Bahrain International Circuit,5.412,15,Clockwise,Race
+293,1052,2021,1,3,Bahrain Grand Prix,2021-03-28,15:00:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,21.4,1.6,Bahrain International Circuit,5.412,15,Clockwise,Race
+294,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,14:10:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,23.2,2.0701754385964914,Bahrain International Circuit,5.412,15,Clockwise,Race
+295,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,17:10:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,21.9,1.7179487179487178,Bahrain International Circuit,5.412,15,Clockwise,Race
+296,1011,2019,2,3,Bahrain Grand Prix,2019-03-31,15:10:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,25.2,1.55,Bahrain International Circuit,5.412,15,Clockwise,Race
+297,990,2018,2,3,Bahrain Grand Prix,2018-04-08,15:10:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,26.4,1.4545454545454546,Bahrain International Circuit,5.412,15,Clockwise,Race
+298,971,2017,3,3,Bahrain Grand Prix,2017-04-16,15:00:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,27.4,1.4193548387096775,Bahrain International Circuit,5.412,15,Clockwise,Race
+299,949,2016,2,3,Bahrain Grand Prix,2016-04-03,15:00:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,20.9,1.9622641509433962,Bahrain International Circuit,5.412,15,Clockwise,Race
+300,929,2015,4,3,Bahrain Grand Prix,2015-04-19,15:00:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,25.4,1.6744186046511629,Bahrain International Circuit,5.412,15,Clockwise,Race
+301,902,2014,3,3,Bahrain Grand Prix,2014-04-06,15:00:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,22.6,1.912280701754386,Bahrain International Circuit,5.412,15,Clockwise,Race
+302,883,2013,4,3,Bahrain Grand Prix,2013-04-21,12:00:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,27.7,2.2253521126760565,Bahrain International Circuit,5.412,15,Clockwise,Race
+303,863,2012,4,3,Bahrain Grand Prix,2012-04-22,12:00:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,24.9,2.0422535211267605,Bahrain International Circuit,5.412,15,Clockwise,Race
+304,337,2010,1,3,Bahrain Grand Prix,2010-03-14,12:00:00,bahrain,Sakhir,Bahrain,26.0325,50.5106,7,26.1,1.0952380952380953,Bahrain International Circuit,5.412,15,Clockwise,Race
+305,983,2017,15,2,Malaysian Grand Prix,2017-10-01,7:00:00,sepang,Sepang,Malaysia,2.76083,101.738,18,27.9,1.1,Sepang International Circuit,5.543,15,Clockwise,Race
+306,963,2016,16,2,Malaysian Grand Prix,2016-10-02,7:00:00,sepang,Sepang,Malaysia,2.76083,101.738,18,29.2,1.75,Sepang International Circuit,5.543,15,Clockwise,Race
+307,927,2015,2,2,Malaysian Grand Prix,2015-03-29,7:00:00,sepang,Sepang,Malaysia,2.76083,101.738,18,28.6,1.96,Sepang International Circuit,5.543,15,Clockwise,Race
+308,901,2014,2,2,Malaysian Grand Prix,2014-03-30,8:00:00,sepang,Sepang,Malaysia,2.76083,101.738,18,28.1,1.981818181818182,Sepang International Circuit,5.543,15,Clockwise,Race
+309,881,2013,2,2,Malaysian Grand Prix,2013-03-24,8:00:00,sepang,Sepang,Malaysia,2.76083,101.738,18,28.6,2.3013698630136985,Sepang International Circuit,5.543,15,Clockwise,Race
+310,861,2012,2,2,Malaysian Grand Prix,2012-03-25,8:00:00,sepang,Sepang,Malaysia,2.76083,101.738,18,28.7,2.223684210526316,Sepang International Circuit,5.543,15,Clockwise,Race
+311,842,2011,2,2,Malaysian Grand Prix,2011-04-10,8:00:00,sepang,Sepang,Malaysia,2.76083,101.738,18,27.1,1.9661016949152543,Sepang International Circuit,5.543,15,Clockwise,Race
+312,339,2010,3,2,Malaysian Grand Prix,2010-04-04,8:00:00,sepang,Sepang,Malaysia,2.76083,101.738,18,29.9,1.15,Sepang International Circuit,5.543,15,Clockwise,Race
+313,1145,2025,1,1,Australian Grand Prix,2025-03-16,4:00:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,13.4,2.9390243902439024,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
+314,1123,2024,3,1,Australian Grand Prix,2024-03-24,4:00:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,16.7,1.5277777777777777,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
+315,1100,2023,3,1,Australian Grand Prix,2023-04-02,5:00:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,13.1,2.5076923076923077,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
+316,1076,2022,3,1,Australian Grand Prix,2022-04-10,5:00:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,20.8,1.2272727272727273,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
+317,1010,2019,1,1,Australian Grand Prix,2019-03-17,5:10:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,20.1,1.1818181818181819,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
+318,989,2018,1,1,Australian Grand Prix,2018-03-25,5:10:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,15.8,1.15,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
+319,969,2017,1,1,Australian Grand Prix,2017-03-26,5:00:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,22.6,1.2,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
+320,948,2016,1,1,Australian Grand Prix,2016-03-20,5:00:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,16.8,1.7333333333333334,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
+321,926,2015,1,1,Australian Grand Prix,2015-03-15,5:00:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,14.6,1.2941176470588236,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
+322,900,2014,1,1,Australian Grand Prix,2014-03-16,6:00:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,16.7,1.5,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
+323,880,2013,1,1,Australian Grand Prix,2013-03-17,6:00:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,14.0,1.849056603773585,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
+324,860,2012,1,1,Australian Grand Prix,2012-03-18,6:00:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,16.3,1.6585365853658536,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
+325,841,2011,1,1,Australian Grand Prix,2011-03-27,6:00:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,15.3,1.711111111111111,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
+326,338,2010,2,1,Australian Grand Prix,2010-03-28,6:00:00,albert_park,Melbourne,Australia,-37.8497,144.968,10,21.8,1.4285714285714286,Melbourne Grand Prix Circuit,5.278,14,Clockwise,Street
