@@ -71,5 +71,7 @@ P Value:  0.019112248978174238
 
 Since the p-value is lower than 0.05, we can safely say that the null hypothesis is rejected.
 
+# Reproduciblity
 
+The project was conducted on Google Colab. Only meteostat module needs to be pip installed and that command is available on EDA notebook.  
 
