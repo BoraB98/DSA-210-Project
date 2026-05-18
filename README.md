@@ -2,26 +2,7 @@
 
 
 # Motivation
-In recent years I have been interested in Formula 1 and have become a big fan of sport. To win the races, teams need to analyze and adapt to changing conditions like weather, durations of pit stops and tracks. The aim of this project is to understand the effects of these parameters on winning races in Formula 1.
-
-# Datasets Used
-
-Kaggle F1 Set (Link: https://www.kaggle.com/datasets/jtrotman/formula-1-race-data) \
-This dataset contains number of .csv files but main ones used in this project are the following: \
-races: Gives information of every race between 1950 - 2026 (1171 Rows) \
-pit_stop: Gives information about every pitstop of each racer in each race between 1950 - 2026 (22194 row) \
-results: Gives information about the ranking of each driver in each race between 1950 - 2026 (27305 row) 
-
------------------------------------------------------------------------------------------
-
-Meteostat - (Link: https://dev.meteostat.net/) \
-This is an API with python libary that can be used for getting historic weather data for specific places. This is used for getting the weather information of each race track during the times of racing. 
-
------------------------------------------------------------------------------------------
-
-Kaggle F1 Track characteristics (Link: https://www.kaggle.com/datasets/kishan305/formula-1-circuits-1950-present) \
-It contains every race track used in the history of F1 and gives detailed information about them such as number of turns, length etc. 
-
+In recent years I have been interested in Formula 1 and have become a big fan of sport. During the races there are numerous changing conditions, such as track characteristics, weather and pit stop durations, that may affect the strategies followed by the teams. Therefore, the aim of this project is to understand different strategies followed by the teams and understand the effects of these conditions.
 
 
 # Hypothesis Tests 
