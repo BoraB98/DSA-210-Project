@@ -6,20 +6,27 @@ In recent years I have been interested in Formula 1 and have become a big fan of
 
 ## Data Sources
 
-###  
+* [Formula 1 Race Data](https://www.kaggle.com/datasets/jtrotman/formula-1-race-data/versions/116)
+* [Formula 1 Circuits (1950 - Present)](https://www.kaggle.com/datasets/kishan305/formula-1-circuits-1950-present)
+* [Meteostat](https://github.com/meteostat/meteostat)
 
 
 ## EDA
 
+### Data Collection
+
+The first two datasets are downloaded from the Kaggle. 
+
+Meteostat's Python module was used to obtain temperature data. Out of 328 races, it was able to find data of 301 races. The graph below shows races which have missing temperature data. The graph indicates that the majority of the missing data came from the British GP and Russian GP rather than a specific year.
+
+<img width="735" height="600" alt="image" src="https://github.com/user-attachments/assets/c13141b7-219c-45cb-bedb-f96af9a395bc" />
+
+
 ### Data Cleaning and Processing
 
-Since the data consists of different .csv files the unique id columns like driver ID and race ID were used for merging these data and obtain more meaningful datasets. However, there was one challenging merge which was between track data of the first Kaggle dataset and track data of the second Kaggle dataset. The country and city columns of the datasets were going to be used for merging these data frames but there were minor differences on the values. For instance, in the second dataset the countries were stored in their full name like ‘United States of America’ however, in the first dataset they were stored in their abbreviation like ‘USA’. Thus, these differences were manually checked and fixed. 
+During this phase datasets were merged for containing necessary features for Hypothesis Testing and ML. However, in some datasets columns used for merging did not store the values in the same format. For instance, in one dataset countries were stored as 'USA' and in the other it was stored as 'United States of America'. Therefore, these were manually checked and fixed. Moreover, during this phase columns were checked for empty values and if necessary, those rows were dropped. For more detail please check the EDA notebook. 
 
-Similarly, another challenging merge was between lap_times.csv and results.csv. There were differences in the race ID column which resulted in unsuccessful merges. The difference came due to lap data frame not containing data for race ID = 1039. To solve this issue the result information about the race ID = 1039 was dropped. 
-
-During this phase, columns were checked for empty values and if necessary, those rows were dropped. For instance, the rank column contained null values in ‘\N’ format which caused errors in the regression models. 
-
-### Data Analysis
+### Preliminary Data Analysis
 
 One of the goals of this project was to understand the effects of different pit stop strategies therefore some preliminary analyses were conducted on some of the columns. 
 
