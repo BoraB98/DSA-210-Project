@@ -1,17 +1,17 @@
-# DSA-210-Project
+# F1 Strategy Analysis - DSA210 Project
 
 
-# Motivation
+## Motivation
 In recent years I have been interested in Formula 1 and have become a big fan of sport. During the races there are numerous changing conditions, such as track characteristics, weather and pit stop durations, that may affect the strategies followed by the teams. Therefore, the aim of this project is to understand different strategies followed by the teams and understand the effects of these conditions.
 
-# Data Sources
+## Data Sources
 
-##  
+###  
 
 
-# EDA
+## EDA
 
-## Data Cleaning and Processing
+### Data Cleaning and Processing
 
 Since the data consists of different .csv files the unique id columns like driver ID and race ID were used for merging these data and obtain more meaningful datasets. However, there was one challenging merge which was between track data of the first Kaggle dataset and track data of the second Kaggle dataset. The country and city columns of the datasets were going to be used for merging these data frames but there were minor differences on the values. For instance, in the second dataset the countries were stored in their full name like ‘United States of America’ however, in the first dataset they were stored in their abbreviation like ‘USA’. Thus, these differences were manually checked and fixed. 
 
@@ -19,7 +19,7 @@ Similarly, another challenging merge was between lap_times.csv and results.csv. 
 
 During this phase, columns were checked for empty values and if necessary, those rows were dropped. For instance, the rank column contained null values in ‘\N’ format which caused errors in the regression models. 
 
-## Data Analysis
+### Data Analysis
 
 One of the goals of this project was to understand the effects of different pit stop strategies therefore some preliminary analyses were conducted on some of the columns. 
 
@@ -36,7 +36,7 @@ In F1 the tracks can have distinct number of ideal pitstops, however, due to the
 <img width="1018" height="897" alt="image" src="https://github.com/user-attachments/assets/099f999a-fa98-4444-acb3-36f1f8405bcc" />
 
 
-# Hypothesis Tests 
+## Hypothesis Tests 
 
 * **Hypothesis Test 1**
 
@@ -102,11 +102,11 @@ In F1 the tracks can have distinct number of ideal pitstops, however, due to the
  * *Analysis*: From these results it can be seen that p value is significantly lower than 0.05 therefore null hypothesis is rejected.
 
 
-# Machine Learning
+## Machine Learning
 
 The machine learning phase of this project consists of supervised learning and unsupervised learning sections. In the unsupervised learning section, the goal was to understand different pit stop strategies drivers/teams executed. In the supervised learning section, the goal was to train a regression model to predict the number of pitstops a driver should do in a race.
 
-## Supervised Learning
+### Supervised Learning
 
 At first linear models like Linear Regression, Lasso, Ridge and Polynomial regression with Lasso is trained. However, all of these models created very poor results with almost all of them having negative 𝑅^2 values. The best result obtained was Polynomial regression with three degrees and it had -0.00 𝑅^2 value.
 
@@ -116,7 +116,7 @@ Since all of the linear models performed very poorly, it was inferred that the m
 
 From the graph it can be seen that the maximum number of laps in a grand prix is the most important feature. Then Circuit Type and Number of Turns are second and third most important features. On the other hand, the previous driver performance did not have a major contribution to the feature importance. From these results it can be inferred that number of pitstops is heavily related to track characteristics rather than driver performances. 
 
-## Unsupervised Learning
+### Unsupervised Learning
 
 Three models were trained to understand the strategies followed by the drivers:
 
@@ -124,7 +124,7 @@ Three models were trained to understand the strategies followed by the drivers:
  * DBSCAN
  * Gaussian Mixture Model
 
-### K-Means
+#### K-Means
 
 Cluster | Pit Stop Lap Median  | First Pit Stop Lap | Last Pit Stop Lap | Temperature | # of Stops | Track Length | # of Turns | Direction | Circuit Type |
 --------| -------------------- | ------------------ | ----------------- |------------ |----------- |------------- |----------- |-----------|------------- |
@@ -138,7 +138,7 @@ Cluster | Pit Stop Lap Median  | First Pit Stop Lap | Last Pit Stop Lap | Temper
 The results show that direction of the track and the circuit types are different in all of the clusters which means that model used these features primally to cluster. This can be also supported by the values in other columns not having major differences in their values. Only cluster 4 has some value differences like having higher temperature and lower last pit stop laps. Therefore, from these results it can be inferred that K-Means clusters according to the strategy followed by the majority of the drivers follow in different types of tracks.
 
 
-### DBSCAN
+#### DBSCAN
 
 Cluster | Pit Stop Lap Median  | First Pit Stop Lap | Last Pit Stop Lap | Temperature | # of Stops | Track Length | # of Turns | Direction | Circuit Type |
 --------| -------------------- | ------------------ | ----------------- |------------ |----------- |------------- |----------- |-----------|------------- |
@@ -155,7 +155,7 @@ Cluster | Pit Stop Lap Median  | First Pit Stop Lap | Last Pit Stop Lap | Temper
 
 From the graph it can be seen that again the direction and circuit types are mostly different in the clusters. In the clusters that have same direction and circuit type values, there are significant differences in other columns. For instance, in clusters 1 and 2 there are differences in the first pit stop laps and number of turns. Another example would be clusters 4 and 7 where number of turns and last pit stop laps are different. Therefore, from these results it can be inferred that DBSCAN created the majority strategy that the drivers follow in different types of tracks.
 
-### Gaussian Mixture Model
+#### Gaussian Mixture Model
 
 Cluster | Pit Stop Lap Median  | First Pit Stop Lap | Last Pit Stop Lap | Temperature | # of Stops | Track Length | # of Turns | Direction | Circuit Type |
 --------| -------------------- | ------------------ | ----------------- |------------ |----------- |------------- |----------- |-----------|------------- |
@@ -167,7 +167,7 @@ Cluster | Pit Stop Lap Median  | First Pit Stop Lap | Last Pit Stop Lap | Temper
 
 From these results it can be seen that the direction and circuit type were again the primary features for creating the clusters. However, one important distinction is that it categorized the road circuit and race circuits in the same category rather than creating separate clusters.
 
-# Key Findings 
+## Key Findings 
 
 This project had two main findings:
 
@@ -176,14 +176,14 @@ This project had two main findings:
  * The results of hypothesis test 2, and three different clustering algorithms and feature importance graph of XGBoost show that temperature of the racetrack alone is not enough to explain the pit stop strategies.
 
 
-# Limitations and Future Work
+## Limitations and Future Work
 One of the crucial limitations of this project was not finding reliable information about the specifications of the cars used by the drivers like their weight or tire degradation. This information could be very valuable during the Machine Learning phase since these features could be correlated with the pit stop strategies of the drivers. Furthermore, there wasn’t further reliable information about the track characteristics like the length of the corners or the straights, which could be very useful since the ML models heavily depended on them.
 
 
 In the future these models can be improved by creating ML models that calculate the tire degradation and use those predictions as features to improve the models designed in this project. Also, the hypothesis 3 showed that there could be a potential dependency between the fastest laps and finish positions which can be further investigated by creating ML models.
 
 
-# Reproducibility
+## Reproducibility
 
 The project was conducted at Google Colab. In this project only Meteostat module was pip installed which can be found on the EDA Noteebok. To run the rest of the project the modules available on the Google Colab can be used. 
 
