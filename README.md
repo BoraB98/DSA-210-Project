@@ -75,6 +75,17 @@ In recent years I have been interested in Formula 1 and have become a big fan of
 
 The machine learning phase of this project consists of supervised learning and unsupervised learning sections. In the unsupervised learning section, the goal was to understand different pit stop strategies drivers/teams executed. In the supervised learning section, the goal was to train a regression model to predict the number of pitstops a driver should do in a race.
 
+## Supervised Learning
+
+At first linear models like Linear Regression, Lasso, Ridge and Polynomial regression with Lasso is trained. However, all of these models created very poor results with almost all of them having negative 𝑅^2 values. The best result obtained was Polynomial regression with three degrees and it had -0.00 𝑅^2 value.
+
+Since all of the linear models performed very poorly, it was inferred that the model did not have a linear relationship therefore non-linear models were tested next. As a non-linear model XGBoost was implemented. In XGBoost depths ranging from 4 – 10 were tested and the best results were obtained when it was 7 which had 0.42 as its 𝑅^2 value. After depth 7 the model started to produce similar results with higher training time.
+
+<img width="815" height="700" alt="image" src="https://github.com/user-attachments/assets/8cffa898-c50c-4c02-85ec-e16f3377ef77" />
+
+From the graph it can be seen that the maximum number of laps in a grand prix is the most important feature. Then Circuit Type and Number of Turns are second and third most important features. On the other hand, the previous driver performance did not have a major contribution to the feature importance. From these results it can be inferred that number of pitstops is heavily related to track characteristics rather than driver performances. 
+
+
 # Key Findings 
 
 This project had two main findings:
