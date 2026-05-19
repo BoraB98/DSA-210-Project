@@ -154,5 +154,7 @@ In the future these models can be improved by creating ML models that calculate 
 
 # Reproducibility
 
-The project was conducted on Google Colab. Only meteostat module needs to be pip installed and that command is available on EDA notebook.  
+The project was conducted at Google Colab. In this project only Meteostat module was pip installed which can be found on the EDA Noteebok. To run the rest of the project the modules available on the Google Colab can be used. 
+
+To run the project the files can be uploaded to Google Drive inside a folder. Then google colab will mount to the drive to read the .csv files.    
 
