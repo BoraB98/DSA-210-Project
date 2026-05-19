@@ -4,6 +4,37 @@
 # Motivation
 In recent years I have been interested in Formula 1 and have become a big fan of sport. During the races there are numerous changing conditions, such as track characteristics, weather and pit stop durations, that may affect the strategies followed by the teams. Therefore, the aim of this project is to understand different strategies followed by the teams and understand the effects of these conditions.
 
+# Data Sources
+
+##  
+
+
+# EDA
+
+## Data Cleaning and Processing
+
+Since the data consists of different .csv files the unique id columns like driver ID and race ID were used for merging these data and obtain more meaningful datasets. However, there was one challenging merge which was between track data of the first Kaggle dataset and track data of the second Kaggle dataset. The country and city columns of the datasets were going to be used for merging these data frames but there were minor differences on the values. For instance, in the second dataset the countries were stored in their full name like ‘United States of America’ however, in the first dataset they were stored in their abbreviation like ‘USA’. Thus, these differences were manually checked and fixed. 
+
+Similarly, another challenging merge was between lap_times.csv and results.csv. There were differences in the race ID column which resulted in unsuccessful merges. The difference came due to lap data frame not containing data for race ID = 1039. To solve this issue the result information about the race ID = 1039 was dropped. 
+
+During this phase, columns were checked for empty values and if necessary, those rows were dropped. For instance, the rank column contained null values in ‘\N’ format which caused errors in the regression models. 
+
+## Data Analysis
+
+One of the goals of this project was to understand the effects of different pit stop strategies therefore some preliminary analyses were conducted on some of the columns. 
+
+The figure below shows the average pit stop durations of the drivers in each season. Before 2020, there were outliers like 2016 season however generally the durations were similar and around 5000 milliseconds. On the other hand, after 2020 the durations significantly increased to 10000 milliseconds. 
+
+<img width="1034" height="1013" alt="image" src="https://github.com/user-attachments/assets/2038b917-dd9d-4118-b258-5d96d31ef856" />
+
+<br>
+<br>
+
+In F1 the tracks can have distinct number of ideal pitstops, however, due to the regulations every driver MUST pit at least once in each race. Figure below shows the average first pit stop times of the races for each race. This graph indicates that the first pit stop laps varies significantly with different racetracks with max value being lap 30 and min value being lap 12. Furthermore, it shows that drivers generally pit between the laps 15 and 20
+
+
+<img width="1018" height="897" alt="image" src="https://github.com/user-attachments/assets/099f999a-fa98-4444-acb3-36f1f8405bcc" />
+
 
 # Hypothesis Tests 
 
@@ -157,4 +188,6 @@ In the future these models can be improved by creating ML models that calculate 
 The project was conducted at Google Colab. In this project only Meteostat module was pip installed which can be found on the EDA Noteebok. To run the rest of the project the modules available on the Google Colab can be used. 
 
 To run the project the files can be uploaded to Google Drive inside a folder. Then google colab will mount to the drive to read the .csv files.    
+
+
 
